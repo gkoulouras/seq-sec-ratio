@@ -1,0 +1,11 @@
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\bin\Release\SeqSecAnalyzer.exe.config
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\bin\Release\SeqSecAnalyzer.exe
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\bin\Release\SeqSecAnalyzer.pdb
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\bin\Release\SeqSecAnalyzer.xml
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\bin\Release\EPPlus.dll
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\obj\Release\SeqSecAnalyzer.vbprojResolveAssemblyReference.cache
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\obj\Release\SeqSecAnalyzer.Resources.resources
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\obj\Release\SeqSecAnalyzer.vbproj.GenerateResource.Cache
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\obj\Release\SeqSecAnalyzer.exe
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\obj\Release\SeqSecAnalyzer.xml
+C:\Users\grigo\Dropbox\PROJECTS\PEZ_THESIS\SeqSecAnalyzer\SeqSecAnalyzer\obj\Release\SeqSecAnalyzer.pdb
