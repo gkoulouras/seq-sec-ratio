@@ -7,6 +7,8 @@ After that uncompress the file and run the tool. A report file will be generated
 You can directly download the executable application by following the link below
 http://apps.grigoriskoulouras.com/seqsecanalyzer/seqsecanalyzer_ver_1.0.zip
 
+The application is written in VB.NET using the Framework 4.5.2
+
 <strong>Samples of the output file</strong>
 
 ![Amino Acid Quantities](../master/seqsecanalyzer_screenshot1.png)
