@@ -5,8 +5,9 @@ The input file should be the "ss.txt" file (Secondary Structure File - uncompres
 You can directly download the executable application by following the link below
 http://apps.grigoriskoulouras.com/seqsecanalyzer/seqsecanalyzer_ver_1.0.zip
 
-The application is written in VB.NET using the Framework 4.5.2
 <strong><i>SeqSecAnalyzer</i></strong> is an open source console application available freely to all users under a GNU license basis.
+</br>
+The application is written in VB.NET using the Framework 4.5.2
 
 <strong>Samples of the output file</strong>
 
