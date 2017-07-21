@@ -4,7 +4,7 @@ A console appication for the quantitative analysis of the Primary Structure (seq
 You can directly download the executable application by following the link below
 http://apps.grigoriskoulouras.com/software/seqsecanalyzer_ver_1.0.zip
 
-<strong><i>SeqSecAnalyzer</i></strong> is an open source console application available freely to all users under a GNU license basis.
+<strong><i>SeqSecAnalyzer</i></strong> is an open source console application available freely to all users.
 </br>
 The application is written in VB.NET using the Framework 4.5.2
 
